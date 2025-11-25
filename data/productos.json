@@ -1,0 +1,62 @@
+[
+  {
+    "imagen": "img/producto1.jpg",
+    "titulo": "Dragon Ball Super 14",
+    "precio": "$13.500",
+    "descripcion": "Tras enfrentarse a Vegeta, Goku Black aprende a convertir la ira en poder, y adquiere nuevos ataques, acorralando a Goku y a Vegeta."
+  },
+  {
+    "imagen": "img/producto2.jpg",
+    "titulo": "One Piece: Arco Arabasta (recopilatorio)",
+    "precio": "$13.500",
+    "descripcion": "Los Sombrero de Paja llegaron al reino desértico de Arabasta..."
+  },
+  {
+    "imagen": "img/producto3.jpg",
+    "titulo": "Bleach Vol.24",
+    "precio": "$17.500",
+    "descripcion": "Ichigo Kurosaki y los Shinigami libran una feroz batalla contra los Arrancar..."
+  },
+  {
+    "imagen": "img/producto4.jpg",
+    "titulo": "Code Geass 8",
+    "precio": "$9.500",
+    "descripcion": "Euphemia declara oficialmente a Suzaku como su caballero personal..."
+  },
+  {
+    "imagen": "img/producto5.jpg",
+    "titulo": "Funko Pop - Hange Zoe",
+    "precio": "$30.500",
+    "descripcion": "Funko Pop Attack on Titan - Hange #464"
+  },
+  {
+    "imagen": "img/producto6.jpg",
+    "titulo": "Colección Retro - Revista Lazer #40",
+    "precio": "$3.500",
+    "descripcion": "Clásica revista argentina de series y animación. Especial Inuyasha."
+  },
+  {
+    "imagen": "img/producto7.jpg",
+    "titulo": "Nemesis - Figura RESIDENT EVIL 3",
+    "precio": "$7.500",
+    "descripcion": "Serie de colección RPD - STARS 1998"
+  },
+  {
+    "imagen": "img/producto8.jpg",
+    "titulo": "RYU - Figura coleccionable",
+    "precio": "$29.500",
+    "descripcion": "Serie Capcom vs SNK 2008."
+  },
+  {
+    "imagen": "img/producto9.jpg",
+    "titulo": "Pre compra: Vinilo - BSO Neon Genesis Evangelion",
+    "precio": "$40.500",
+    "descripcion": "Vinilo Importado."
+  },
+  {
+    "imagen": "img/producto10.jpg",
+    "titulo": "Colección Retro - Revista PSM 14",
+    "precio": "$12.500",
+    "descripcion": "Clásica revista española de videojuegos - Playstation Magazine número 14 (1999)"
+  }
+]

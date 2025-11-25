@@ -6,50 +6,54 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./css/style.css">
-  <title>Tienda Manga</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <title>Carrito - Tienda Manga</title>
 </head>
+
 <body>
 
   <header>
     <div class="logo-container"><a class="logo" href="./index.html"> マ ン ガ ス ト ア ☸ Tienda Manga </a></div>
     <nav class="header-nav">
       <ul>
-        <li><a href="./index.html">Inicio</a></li>
-        <li><a href="./pages/contacto.html">Contacto</a></li>
-        <li><a href="./pages/carrito.html">Carrito🛒 
+        <li><a href="../index.html">Inicio</a></li>
+        <li><a href="./contacto.html">Contacto</a></li>
+        <li><a href="./carrito.html">Carrito🛒 
           <span id="contador-carrito">0</span>
         </a></li>
-    
       </ul>
     </nav>
   </header>
 
-  <main>
-    <h1 class="titulo-home">Bienvenidos a Tienda Manga</h1>
-    <p class="parrafo">
-      Importadores oficiales de comics, novelas gráficas y merch del mundo geek, oriental y videojuegos.
-    </p>
+<main>
 
-    <section>
-      <h2 class="titulo-productos">Últimas novedades:</h2>
+    <h1 class="titulo-carrito">Carrito de compras</h1>
 
     
-      <div class="productos-container" id="productos-container"></div>
-
+    <section id="contenedor-carrito" class="productos-container">
     </section>
-  </main>
 
-  <footer>
+    
+    <div class="acciones-carrito" id="acciones-carrito">
+    </div>
+
+    
+    <section id="resumen-carrito">
+    </section>
+
+</main>
+
+<footer>
     <p>©Julian Pintos para Talentotech - 2025</p>
     <nav class="redes">
       <ul>
-        <li><a href="https://www.instagram.com/lobodelcalla">Instagram</a></li>
+        <li><a href="#">Instagram</a></li>
         <li><a href="#">WhatsApp</a></li>
       </ul>
     </nav>
-  </footer>
+</footer>
 
-  <script src="./js/index.js" type="module"></script>
+<script type="module" src="../js/carrito.js"></script>
+
 </body>
 </html>
